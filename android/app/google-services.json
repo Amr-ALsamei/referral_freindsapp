@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967586967731",
+    "project_id": "referralfreindapp",
+    "storage_bucket": "referralfreindapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967586967731:android:348d03a66743b5e84700c6",
+        "android_client_info": {
+          "package_name": "com.example.referral_freindsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZIKh0ptctLny9jYBtP-83MDYta5JlkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
