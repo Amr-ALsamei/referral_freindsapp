@@ -1,3 +1,5 @@
+Some screenshots of the Application
+
 ![Screenshot 2024-05-29 025827](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/b64feb39-4273-4d45-946f-97ff64da726b)
 ![Screenshot 2024-05-29 030134](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/7b2628ef-0532-4927-a3c6-25f8171d5eaf)
 ![Screenshot 2024-05-29 030216](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/9dd3deee-f38e-401c-8c2a-5c0eb0c12bff)
