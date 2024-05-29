@@ -1,20 +1,15 @@
-![Screenshot 2024-05-29 025827](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/c30eeccd-bfaa-4adf-9fb9-46335a580ffb)
-![Screenshot 2024-05-29 030134](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/6e032b09-8c08-4807-b2b5-b052f701cf63)
-![Screenshot 2024-05-29 030216](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/3050ca71-7873-4b20-b12e-88f9969cbed6)
-![Screenshot 2024-05-29 031204](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/b62a721e-e0a2-4f69-b9d4-f7405fa67e17)
-![Screenshot 2024-05-29 031246](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/05617228-6627-433b-a6b9-da4258fcde23)
-![Screenshot 2024-05-29 031436](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/dd17db1a-edbf-4f5c-979e-9eccd25033b4)
-![Screenshot 2024-05-29 031504](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/99bde820-71f4-4a4b-8c23-9627914e1032)
-![Screenshot 2024-05-29 031949](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/3f47d5e2-
-![Screenshot 2024-05-29 032157](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/b3f6f21e-2a35-4
-![Screenshot 2024-05-29 032934](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/185259f1-4164-4d3f-bc8b-2a37d783550b)
-
-![Screenshot 2024-05-29 032351](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/81921a68-fa51-43fc-97b0-dc13aa66167e)
-![Screenshot 2024-05-29 032417](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/721a103d-b026-43a7-a041-8ffb69ccd572)
-
-f0f-83ac-9633e7ecc166)
-df93-435f-8822-b2378a875f62)
-
-![Screenshot 2024-05-29 031756](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/bda7ed4b-75d3-475e-9f38-2be33ce46d3e)
-
-![Screenshot 2024-05-29 031715](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/47ee3a23-c94f-4cb5-a6b2-7c087668f250)
+![Screenshot 2024-05-29 025827](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/b64feb39-4273-4d45-946f-97ff64da726b)
+![Screenshot 2024-05-29 030134](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/7b2628ef-0532-4927-a3c6-25f8171d5eaf)
+![Screenshot 2024-05-29 030216](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/9dd3deee-f38e-401c-8c2a-5c0eb0c12bff)
+![Screenshot 2024-05-29 031204](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/de7b81cb-c1b9-4f62-af45-64f6e57b9311)
+![Screenshot 2024-05-29 031246](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/f33d9f99-ef9e-45fa-aa4a-d209e88eb486)
+![Screenshot 2024-05-29 032934](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/569389a1-116c-4437-8716-b34b2e174569)
+![Screenshot 2024-05-29 032157](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/19874407-2704-48a4-8fef-ae3e5959f9e3)
+![Screenshot 2024-05-29 031715](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/d1702330-4a50-46a4-80ab-2e791c0de19f)
+![Screenshot 2024-05-29 031756](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/d9420869-475a-478b-b4e0-d624534dd28b)
+![Screenshot 2024-05-29 031949](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/0491568e-5826-4478-b4bf-b5c489168a38)
+![Screenshot 2024-05-29 032351](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/d3c8da6e-ab26-4205-a49b-5a364f45db85)
+![Screenshot 2024-05-29 032417](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/3872a51d-7f8d-45b1-baab-8b0937715bf7)
+![Screenshot 2024-05-29 031436](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/555b2cd7-390
+8-46a9-84bd-0ed23e06ee7b)
+![Screenshot 2024-05-29 031504](https://github.com/Amr-ALsamei/referral_freindsapp/assets/123590706/27256885-08e6-44bd-b29e-d5eeabe36403)
